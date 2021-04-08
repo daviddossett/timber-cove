@@ -1,0 +1,21 @@
+{
+  "name": "timber-cove",
+  "displayName": "timber-cove",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.55.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Timber Cove",
+        "uiTheme": "vs-dark",
+        "path": "./themes/timber-cove-dark.json"
+      }
+    ]
+  }
+}
