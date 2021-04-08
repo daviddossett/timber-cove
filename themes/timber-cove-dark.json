@@ -2,10 +2,10 @@
   "name": "Timber Cove",
   "type": "dark",
   "colors": {
-    "activityBar.background": "#22272E",
+    "activityBar.background": "#1C2128",
     "activityBarBadge.background": "#4184E4",
-    "sideBar.background": "#22272E",
-    "editor.background": "#1C2128",
+    "sideBar.background": "#1C2128",
+    "editor.background": "#22272e",
     "editor.lineHighlightBackground": "#22272E",
     "titleBar.activeBackground": "#22272E",
     "titleBar.activeForeground": "#ADBAC7",
