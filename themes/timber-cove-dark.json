@@ -149,19 +149,17 @@
         "punctuation.separator.key-value",
         "meta.object-literal.key",
         "variable.other.object.property",
-        "variable.other.property.tsx"
+        "variable.other.property.tsx",
+        "constant.numeric.decimal",
+        "constant.language.boolean",
+        "keyword"
       ],
       "settings": {
         "foreground": "#6cb6ff"
       }
     },
     {
-      "scope": [
-        "meta.object.member",
-        "meta.objectliteral",
-        "meta.array.literal",
-        "meta.var.expr"
-      ],
+      "scope": ["meta.objectliteral", "meta.array.literal", "meta.var.expr"],
       "settings": {
         "foreground": "#96D0FF"
       }
@@ -177,7 +175,12 @@
         "support",
         "string.other.link.title.markdown",
         "keyword.operator.type.annotation",
-        "punctuation.definition.block"
+        "punctuation.definition.block",
+        "punctuation.terminator.statement",
+        "meta.object.member",
+        "meta.brace.round",
+        "punctuation.definition.binding-pattern.array",
+        "meta.var.expr"
       ],
       "settings": {
         "foreground": "#adbac7"
@@ -201,7 +204,6 @@
     },
     {
       "scope": [
-        "keyword",
         "storage.modifier",
         "storage.type",
         "storage.control.clojure",
@@ -247,8 +249,7 @@
         "string.interpolated",
         "string.template",
         "string.unquoted.plain.out.yaml",
-        "keyword.other.template",
-        "constant.numeric.decimal"
+        "keyword.other.template"
       ],
       "settings": {
         "foreground": "#96d0ff"
