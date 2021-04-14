@@ -180,7 +180,14 @@
         "meta.object.member",
         "meta.brace.round",
         "punctuation.definition.binding-pattern.array",
-        "meta.var.expr"
+        "meta.var.expr",
+        "keyword.other.unit.px",
+        "punctuation.definition.template-expression.begin",
+        "punctuation.definition.template-expression.end",
+        "meta.template.expression",
+        "keyword.control.export",
+        "meta.property-value",
+        "constant.numeric"
       ],
       "settings": {
         "foreground": "#adbac7"
@@ -188,18 +195,17 @@
     },
     {
       "scope": [
-        "constant.numeric",
         "constant.other.placeholder",
         "constant.character.format.placeholder",
-        "meta.property-value",
         "keyword.other.unit",
         "keyword.other.template",
         "entity.name.tag.yaml",
         "entity.other.attribute-name",
-        "support.type.property-name.json"
+        "support.type.property-name",
+        "storage.type.function.arrow"
       ],
       "settings": {
-        "foreground": "#ff0000"
+        "foreground": "#6cb6ff"
       }
     },
     {
@@ -209,7 +215,9 @@
         "storage.control.clojure",
         "entity.name.function.clojure",
         "support.function.node",
-        "punctuation.definition.template-expression"
+        "punctuation.definition.template-expression",
+        "punctuation.definition.keyword",
+        "keyword.control.at-rule.media"
       ],
       "settings": {
         "foreground": "#F47067"
@@ -227,7 +235,6 @@
         "entity.other.inherited-class",
         "meta.function-call",
         "meta.instance.constructor",
-        "entity.other.attribute-name",
         "entity.name.function",
         "constant.keyword.clojure"
       ],
@@ -248,7 +255,8 @@
         "string.interpolated",
         "string.template",
         "string.unquoted.plain.out.yaml",
-        "keyword.other.template"
+        "keyword.other.template",
+        "constant.other.color.rgb-value.hex"
       ],
       "settings": {
         "foreground": "#96d0ff"
@@ -261,7 +269,10 @@
       }
     },
     {
-      "scope": ["support.class.component"],
+      "scope": [
+        "punctuation.definition.tag.begin",
+        "punctuation.definition.tag.end"
+      ],
       "settings": {
         "foreground": "#6cb6ff"
       }
