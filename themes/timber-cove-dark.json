@@ -243,7 +243,6 @@
     },
     {
       "scope": [
-        "entity.name.tag",
         "string.quoted",
         "string.regexp",
         "string.interpolated",
@@ -253,6 +252,18 @@
       ],
       "settings": {
         "foreground": "#96d0ff"
+      }
+    },
+    {
+      "scope": ["entity.name.tag"],
+      "settings": {
+        "foreground": "#8ddb8c"
+      }
+    },
+    {
+      "scope": ["support.class.component"],
+      "settings": {
+        "foreground": "#6cb6ff"
       }
     },
     {
