@@ -1,14 +1,20 @@
 {
   "name": "timber-cove",
-  "displayName": "timber-cove",
-  "description": "",
+  "displayName": "Timber Cove",
+  "description": "A dimmed theme based on the Github Dark Dimmed theme",
   "version": "0.0.1",
+  "publisher": "daviddossett",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mistople/timber-cove.git"
+  },
   "engines": {
     "vscode": "^1.55.0"
   },
   "categories": [
     "Themes"
   ],
+  "icon": "icon.png",
   "contributes": {
     "themes": [
       {

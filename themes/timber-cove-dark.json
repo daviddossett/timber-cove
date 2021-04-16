@@ -90,18 +90,6 @@
       }
     },
     {
-      "scope": [
-        "support.function",
-        "keyword.operator.accessor",
-        "meta.group.braces.round.function.arguments",
-        "meta.template.expression",
-        "markup.fenced_code meta.embedded.block"
-      ],
-      "settings": {
-        "foreground": "#b392f0"
-      }
-    },
-    {
       "scope": "emphasis",
       "settings": {
         "fontStyle": "italic"
@@ -217,7 +205,9 @@
         "support.function.node",
         "punctuation.definition.template-expression",
         "punctuation.definition.keyword",
-        "keyword.control.at-rule.media"
+        "keyword.control.at-rule.media",
+        "keyword.control.import",
+        "keyword.control.export"
       ],
       "settings": {
         "foreground": "#F47067"
@@ -236,7 +226,8 @@
         "meta.function-call",
         "meta.instance.constructor",
         "entity.name.function",
-        "constant.keyword.clojure"
+        "constant.keyword.clojure",
+        "support.function"
       ],
       "settings": {
         "foreground": "#DCBDFB"
