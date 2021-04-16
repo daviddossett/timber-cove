@@ -39,7 +39,7 @@
     "list.hoverBackground": "#2D333B",
     "list.hoverForeground": "#ffffff",
     "list.inactiveSelectionBackground": "#2D333B",
-    "panelTitle.activeBorder": "#539BF5",
+    "panelTitle.activeBorder": "#F47067",
     "panelTitle.inactiveForeground": "#545D68",
     "peekView.border": "#539BF5",
     "peekViewEditor.background": "#22272E",
