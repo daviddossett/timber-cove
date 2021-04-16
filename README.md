@@ -2,7 +2,7 @@
 
 A VS Code theme based on Github's Dark Dimmed theme.
 
-![preview-dark](https://raw.githubusercontent.com/mistople/timber-cove/master/screenshot-dark.png)
+![preview](https://raw.githubusercontent.com/mistople/timber-cove/master/screenshot.png)
 
 ## Installation
 
