@@ -74,7 +74,7 @@
     "debugToolBar.background": "#2D333B",
     "statusBar.debuggingBackground": "#539BF5",
     "statusBar.debuggingForeground": "#1C2128",
-    "activityBar.activeBorder": "#539BF5",
+    "activityBar.activeBorder": "#F47067",
     "activityBar.foreground": "#CDD9E5",
     "settings.dropdownBackground": "#373E47",
     "settings.focusedRowBackground": "#2D333B",
