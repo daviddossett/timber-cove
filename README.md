@@ -2,7 +2,7 @@
 
 # Timber Cove Theme
 
-<img src="https://raw.githubusercontent.com/mistople/timber-cove/master/icon.png" width="140" />
+<img src="https://raw.githubusercontent.com/mistople/timber-cove/master/icon.png" width="160" />
 
 A VS Code theme based on Github's Dark Dimmed theme.
 
