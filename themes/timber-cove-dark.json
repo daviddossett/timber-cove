@@ -271,46 +271,46 @@
     {
       "scope": "token.info-token",
       "settings": {
-        "foreground": "#316bcd"
+        "foreground": "#96D0FF"
       }
     },
     {
       "scope": "token.warn-token",
       "settings": {
-        "foreground": "#cd9731"
+        "foreground": "#ffea7f"
       }
     },
     {
       "scope": "token.error-token",
       "settings": {
-        "foreground": "#cd3131"
+        "foreground": "#F47067"
       }
     },
     {
       "scope": "token.debug-token",
       "settings": {
-        "foreground": "#ff0000"
+        "foreground": "#96D0FF"
       }
     },
     {
       "name": "[Custom] Markdown links",
       "scope": "markup.underline.link",
       "settings": {
-        "foreground": "#ffab70"
+        "foreground": "#96D0FF"
       }
     },
     {
       "name": "[Custom] Markdown list",
       "scope": ["beginning.punctuation.definition.list.markdown"],
       "settings": {
-        "foreground": "#FF0000"
+        "foreground": "#96D0FF"
       }
     },
     {
       "name": "[Custom] Markdown punctuation definition",
       "scope": "punctuation.definition.metadata.markdown",
       "settings": {
-        "foreground": "#ff0000"
+        "foreground": "#96D0FF"
       }
     },
     {
@@ -320,7 +320,7 @@
         "punctuation.definition.string.end.markdown"
       ],
       "settings": {
-        "foreground": "#ff0000"
+        "foreground": "#96D0FF"
       }
     }
   ]
