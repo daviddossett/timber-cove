@@ -313,7 +313,11 @@
     },
     {
       "name": "[Custom] Markdown list punctuation",
-      "scope": ["punctuation.definition.list.begin.markdown"],
+      "scope": [
+        "punctuation.definition.list.begin.markdown",
+        "entity.name.type.interface",
+        "entity.name.type"
+      ],
       "settings": {
         "foreground": "#F69D50"
       }
