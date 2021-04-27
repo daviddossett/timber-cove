@@ -2,7 +2,7 @@
   "name": "timber-cove",
   "displayName": "Timber Cove Theme",
   "description": "A VS Code theme based on the Github Dark Dimmed theme",
-  "version": "0.3.6",
+  "version": "0.3.7",
   "publisher": "daviddossett",
   "repository": {
     "type": "git",
